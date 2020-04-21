@@ -1,1 +1,1 @@
-alert('Hello World');
+document.querySelector("h3").innerHTML = 'pwned';
